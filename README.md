@@ -4,7 +4,7 @@ get e5 api and get good thing
 使用提示（看到汉语的亲切感）
 非常重要提示！！！
 
-需要修改的地方app_id,app_secret,PORT
+需要修改的地方app_id,app_secret,PORT,以及redirect_uri
 
 端口和在申请应用程序时的回调地址一致，例如我的是http://localhost:7777/，则端口为7777
 
